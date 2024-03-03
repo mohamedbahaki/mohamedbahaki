@@ -1,4 +1,5 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3anZ1YzE1MmIycWFzNzM3N3Iza2p2MHBxcDU1eXg4aXM4c2x1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)](https://rishavchanda.io) 
+   [![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3anZ1YzE1MmIycWFzNzM3N3Iza2p2MHBxcDU1eXg4aXM4c2x1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)] 
+  (https://rishavchanda.io) 
 
 
 <h1 align="center">Hi 👋, I'm 𝐌𝐎𝐇𝐀𝐌𝐄𝐃 𝐁𝐀𝐇𝐀𝐊𝐈</h1>
@@ -16,7 +17,7 @@
 
 🤝 Let's Connect: I'm open to networking, collaborating on cybersecurity projects, and engaging in meaningful discussions. Feel free to reach out!
 
-#Cybersecurity #Python #BugBounty #EthicalHacking #OpenSource  .</h3>
+  .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbahaki&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbahaki" /> </p>
 
